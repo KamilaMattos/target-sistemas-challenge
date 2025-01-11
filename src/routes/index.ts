@@ -1,16 +1,16 @@
 import { Router } from "express"
-import question1Controller from "../controllers/calculateSum.controller"
-import question2Controller from "../controllers/isFibonacciNumber.controller"
-import question3Controller from "../controllers/processRevenueData.controller"
-import question4Controller from "../controllers/calculatePercentages.controller"
-import question5Controller from "../controllers/reverseString.controller"
+import calculateSum from "../controllers/calculateSum.controller"
+import isFibonacciNumber from "../controllers/isFibonacciNumber.controller"
+import processRevenueData from "../controllers/processRevenueData.controller"
+import calculatePercentages from "../controllers/calculatePercentages.controller"
+import reverseString from "../controllers/reverseString.controller"
 
 const router = Router()
 
-router.get("/question1", question1Controller)
-router.post("/question2", question2Controller)
-router.post("/question3", question3Controller)
-router.get("/question4", question4Controller)
-router.post("/question5", question5Controller)
+router.get("/question1", calculateSum)
+router.post("/question2", isFibonacciNumber)
+router.post("/question3", processRevenueData)
+router.get("/question4", calculatePercentages)
+router.post("/question5", reverseString)
 
 export default router
