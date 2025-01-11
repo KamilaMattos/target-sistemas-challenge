@@ -190,7 +190,7 @@ Para facilitar o teste da aplicação, você pode importar a coleção disponív
 
 - Selecione Import/Export > Import Data > From File.
 
-- Escolha o arquivo Insomnia_2025-01-11.json localizado na raiz do projeto.
+- Escolha o arquivo `Insomnia_2025-01-11.json` localizado na raiz do projeto.
 
 - Clique em Confirm.
 
