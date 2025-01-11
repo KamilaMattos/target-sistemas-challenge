@@ -1,5 +1,5 @@
 import { Request, Response } from "express"
-import { calculatePercentages } from "../services/question4.service"
+import { calculatePercentages } from "../services/calculatePercentages.service"
 
 export default (req: Request, res: Response) => {
   try {

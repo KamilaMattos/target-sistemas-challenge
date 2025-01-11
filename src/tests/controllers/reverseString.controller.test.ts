@@ -1,6 +1,6 @@
 import { Request, Response } from "express"
-import question5Controller from "../../controllers/question5.controller"
-import * as service from "../../services/question5.service"
+import question5Controller from "../../controllers/reverseString.controller"
+import * as service from "../../services/reverseString.service"
 
 describe("question5Controller", () => {
   it("should return the reversed string successfully", () => {

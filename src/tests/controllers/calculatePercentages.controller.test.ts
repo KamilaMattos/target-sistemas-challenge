@@ -1,6 +1,6 @@
 import { Request, Response } from "express"
-import question4Controller from "../../controllers/question4.controller"
-import * as service from "../../services/question4.service"
+import question4Controller from "../../controllers/calculatePercentages.controller"
+import * as service from "../../services/calculatePercentages.service"
 
 it("should handle errors from the service gracefully", () => {
   jest.spyOn(service, "calculatePercentages").mockImplementation(() => {

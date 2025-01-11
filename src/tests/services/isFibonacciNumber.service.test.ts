@@ -1,4 +1,4 @@
-import { isFibonacciNumber } from "../../services/question2.service"
+import { isFibonacciNumber } from "../../services/isFibonacciNumber.service"
 
 describe("isFibonacciNumber Service", () => {
   it("should return true for a number in the Fibonacci sequence", () => {

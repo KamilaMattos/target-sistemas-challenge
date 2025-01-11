@@ -1,4 +1,4 @@
-import { reverseString } from "../../services/question5.service"
+import { reverseString } from "../../services/reverseString.service"
 
 describe("reverseString Service", () => {
   it("should correctly reverse a regular string", () => {

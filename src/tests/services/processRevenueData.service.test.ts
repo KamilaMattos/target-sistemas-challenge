@@ -1,4 +1,4 @@
-import { processRevenueData } from "../../services/question3.service"
+import { processRevenueData } from "../../services/processRevenueData.service"
 import { DailyRevenue } from "../../types/faturamento"
 
 jest.mock("../../data/faturamento.json", () => [

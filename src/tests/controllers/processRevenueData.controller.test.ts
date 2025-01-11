@@ -1,6 +1,6 @@
 import { Request, Response } from "express"
-import question3Controller from "../../controllers/question3.controller"
-import * as service from "../../services/question3.service"
+import question3Controller from "../../controllers/processRevenueData.controller"
+import * as service from "../../services/processRevenueData.service"
 
 describe("question3Controller", () => {
   it("should return the processed revenue data successfully", () => {

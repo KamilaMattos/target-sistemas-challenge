@@ -1,9 +1,9 @@
 import { Router } from "express"
-import question1Controller from "../controllers/question1.controller"
-import question2Controller from "../controllers/question2.controller"
-import question3Controller from "../controllers/question3.controller"
-import question4Controller from "../controllers/question4.controller"
-import question5Controller from "../controllers/question5.controller"
+import question1Controller from "../controllers/calculateSum.controller"
+import question2Controller from "../controllers/isFibonacciNumber.controller"
+import question3Controller from "../controllers/processRevenueData.controller"
+import question4Controller from "../controllers/calculatePercentages.controller"
+import question5Controller from "../controllers/reverseString.controller"
 
 const router = Router()
 

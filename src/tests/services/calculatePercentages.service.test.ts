@@ -1,4 +1,4 @@
-import { calculatePercentages } from "../../services/question4.service"
+import { calculatePercentages } from "../../services/calculatePercentages.service"
 
 describe("calculatePercentages Service", () => {
   it("should calculate correct percentages for all states", () => {

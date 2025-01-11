@@ -1,4 +1,4 @@
-import { calculateSum } from "../../services/question1.service"
+import { calculateSum } from "../../services/calculateSum.service"
 
 describe("calculateSum Service", () => {
   it("should calculate the correct sum for INDEX = 13", () => {

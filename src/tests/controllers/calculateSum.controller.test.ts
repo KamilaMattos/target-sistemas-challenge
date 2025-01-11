@@ -1,6 +1,6 @@
 import { Request, Response } from "express"
-import question1Controller from "../../controllers/question1.controller"
-import * as service from "../../services/question1.service"
+import question1Controller from "../../controllers/calculateSum.controller"
+import * as service from "../../services/calculateSum.service"
 
 describe("question1Controller", () => {
   it("should call calculateSum and return the correct response", () => {

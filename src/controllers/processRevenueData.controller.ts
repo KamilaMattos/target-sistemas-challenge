@@ -1,5 +1,5 @@
 import { Request, Response } from "express"
-import { processRevenueData } from "../services/question3.service"
+import { processRevenueData } from "../services/processRevenueData.service"
 
 export default (req: Request, res: Response) => {
   try {

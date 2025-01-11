@@ -1,6 +1,6 @@
 import { Request, Response } from "express"
-import question2Controller from "../../controllers/question2.controller"
-import * as service from "../../services/question2.service"
+import question2Controller from "../../controllers/isFibonacciNumber.controller"
+import * as service from "../../services/isFibonacciNumber.service"
 
 describe("question2Controller", () => {
   it("should return a valid Fibonacci response for a valid number in the sequence", () => {

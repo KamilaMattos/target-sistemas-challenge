@@ -1,5 +1,5 @@
 import { Request, Response } from "express"
-import { reverseString } from "../services/question5.service"
+import { reverseString } from "../services/reverseString.service"
 
 export default (req: Request, res: Response) => {
   const { input } = req.body

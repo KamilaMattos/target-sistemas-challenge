@@ -1,5 +1,5 @@
 import { Request, Response } from "express"
-import { calculateSum } from "../services/question1.service"
+import { calculateSum } from "../services/calculateSum.service"
 
 export default (req: Request, res: Response) => {
   try {
