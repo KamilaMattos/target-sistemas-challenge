@@ -1,1 +1,0 @@
-# target-sistemas-challenge
