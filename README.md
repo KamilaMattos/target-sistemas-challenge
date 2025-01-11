@@ -202,7 +202,7 @@ Para facilitar o teste da aplicação, você pode importar a coleção disponív
 
 - Selecione a aba File.
 
-- Arraste o arquivo Insomnia_2025-01-11.json ou clique em Choose Files e selecione-o.
+- Arraste o arquivo `Insomnia_2025-01-11.json` ou clique em Choose Files e selecione-o.
 
 - Clique em Import.
 
