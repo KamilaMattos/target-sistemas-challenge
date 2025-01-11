@@ -178,32 +178,32 @@ Os testes estão organizados na pasta `src/tests/` e incluem cenários para serv
 
 ---
 
-## **Importando a Coleção Insomnia ou Postman**
+## **Importando a Coleção no Insomnia ou Postman**
 
 Para facilitar o teste da aplicação, você pode importar a coleção disponível no arquivo Insomnia_2025-01-11.json. Este arquivo contém todas as rotas configuradas e exemplos de requisição para o Insomnia ou Postman.
 
-Passos para Importar no Insomnia:
+**Passos para Importar no Insomnia:**
 
-Abra o Insomnia.
+- Abra o Insomnia.
 
-Clique no menu no canto superior esquerdo (Application ou File).
+- Clique no menu no canto superior esquerdo (Application ou File).
 
-Selecione Import/Export > Import Data > From File.
+- Selecione Import/Export > Import Data > From File.
 
-Escolha o arquivo Insomnia_2025-01-11.json localizado na raiz do projeto.
+- Escolha o arquivo Insomnia_2025-01-11.json localizado na raiz do projeto.
 
-Clique em Confirm.
+- Clique em Confirm.
 
-Passos para Importar no Postman:
+**Passos para Importar no Postman:**
 
-Abra o Postman.
+- Abra o Postman.
 
-Clique em Import no canto superior esquerdo.
+- Clique em Import no canto superior esquerdo.
 
-Selecione a aba File.
+- Selecione a aba File.
 
-Arraste o arquivo Insomnia_2025-01-11.json ou clique em Choose Files e selecione-o.
+- Arraste o arquivo Insomnia_2025-01-11.json ou clique em Choose Files e selecione-o.
 
-Clique em Import.
+- Clique em Import.
 
 Agora, todas as rotas estarão configuradas e prontas para teste no Insomnia ou Postman.
