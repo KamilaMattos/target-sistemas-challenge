@@ -178,7 +178,7 @@ Os testes estão organizados na pasta `src/tests/` e incluem cenários para serv
 
 ---
 
-Importando a Coleção Insomnia ou Postman
+## **Importando a Coleção Insomnia ou Postman**
 
 Para facilitar o teste da aplicação, você pode importar a coleção disponível no arquivo Insomnia_2025-01-11.json. Este arquivo contém todas as rotas configuradas e exemplos de requisição para o Insomnia ou Postman.
 
